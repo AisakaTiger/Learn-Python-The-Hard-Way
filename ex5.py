@@ -1,3 +1,4 @@
+# --encoding:utf-8--
 my_name = 'Zed A. Shaw'
 my_age = 35 # not a lie
 my_height = 74 # inches
@@ -15,4 +16,3 @@ print "His teeth are usually %s depending on the coffee."
 
 #this line is tricky ,try to get it exactly right
 print "If I add %d,%d,and %d Iget %d." %(my_age,my_height,my_weight,my_age + my_height + my_weight)
-
